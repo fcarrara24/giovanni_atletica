@@ -1,0 +1,25 @@
+{
+  "name": "personal-trainer-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://fcarrara24.github.io/giovanni_atletica",
+  "scripts": {
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcarrara24/giovanni_atletica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fcarrara24/giovanni_atletica/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
